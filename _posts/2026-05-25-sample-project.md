@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: "AI Study Buddy"
 date: 2026-05-25
-Name: 
+team: "Aisha, Noor, Maya"
 tools: "Claude Code, Python, Streamlit"
 github_repo: "https://github.com/example/ai-study-buddy"
 demo_link: "https://example-demo-link.com"
