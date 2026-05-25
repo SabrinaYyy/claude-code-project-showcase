@@ -1,0 +1,10 @@
+title: Claude Code Project Showcase
+description: A showcase of trainee projects from the Claude Code workshop.
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+collections:
+  posts:
+    output: true
